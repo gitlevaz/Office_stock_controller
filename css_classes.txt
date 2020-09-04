@@ -1,0 +1,10 @@
+inventory classes patern
+global->
+inv_form
+inv_input
+inv_submit
+
+by_page_view->
+index_form
+index_input
+index_submit
